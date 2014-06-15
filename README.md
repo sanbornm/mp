@@ -1,9 +1,7 @@
-mp - a simple mail parser [![Build Status](https://travis-ci.org/sanbornm/mp.svg?branch=master)](https://travis-ci.org/sanbornm/mp.svg?branch=master)
+mp - mail parser [![Build Status](https://travis-ci.org/sanbornm/mp.svg?branch=master)](https://travis-ci.org/sanbornm/mp.svg?branch=master)
 ==
 
-mp is a simple cli email parser.
-
-It currently takes stdin and outputs JSON.
+mp is a simple cli email parser.  It currently takes stdin and outputs JSON.
 
 Example:
 
