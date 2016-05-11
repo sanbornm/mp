@@ -1,0 +1,38 @@
+{
+	"ImportPath": "github.com/sanbornm/mp",
+	"GoVersion": "go1.6",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/jaytaylor/html2text",
+			"Rev": "4936b6c2ae7f89f5eeba2473c31fd27ea8f11068"
+		},
+		{
+			"ImportPath": "github.com/jhillyerd/go.enmime",
+			"Comment": "old-api-5-g3ea281b",
+			"Rev": "3ea281bf3e00864f4afe2f9a6911af164438b581"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html",
+			"Rev": "341cd0845b5a19165f12976d7915847a71037135"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding",
+			"Rev": "cd1d59e467ef512633026c0f15282e108e41d453"
+		},
+		{
+			"ImportPath": "golang.org/x/text/internal/utf8internal",
+			"Rev": "cd1d59e467ef512633026c0f15282e108e41d453"
+		},
+		{
+			"ImportPath": "golang.org/x/text/runes",
+			"Rev": "cd1d59e467ef512633026c0f15282e108e41d453"
+		},
+		{
+			"ImportPath": "golang.org/x/text/transform",
+			"Rev": "cd1d59e467ef512633026c0f15282e108e41d453"
+		}
+	]
+}
